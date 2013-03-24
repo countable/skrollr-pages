@@ -12,6 +12,7 @@ My company, [Countable](http://countable.ca) uses this skrollr add-on.
 
 ## Usage:
 
+```
 <!-- currently requires jQuery. -->
 <script src="jquery-1.9.1.min.js"></script>
 <script src="skrollr.min.js"></script>
@@ -39,4 +40,5 @@ My company, [Countable](http://countable.ca) uses this skrollr add-on.
   .page {height: 1000px;}
   .active {color: red;}
 </style>
+```
 
