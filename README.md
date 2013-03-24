@@ -7,7 +7,10 @@ Adds a concept of "pages" to [skrollr](https://github.com/Prinzhorn/skrollr). Pa
 - Local navigation will be updated to reflect which "page" you scroll to.
 - Pagination elements will automatically be wired up to scroll through pages if you create them. Default classes for these are "scroll-page-down", "scroll-page-up", "scroll-page-top", "scroll-page-bottom".
 
-## Usage example:
+## Example:
+My company, [Countable](http://countable.ca) uses this skrollr add-on.
+
+## Usage:
 
 <!-- currently requires jQuery. -->
 <script src="jquery-1.9.1.min.js"></script>
